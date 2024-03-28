@@ -36,6 +36,7 @@ import {
   yourlogo,
 } from "../assets";
 
+// Navbar items
 export const navigation = [
   {
     id: "0",
@@ -209,34 +210,34 @@ export const pricing = [
   {
     id: "0",
     title: "Basic",
-    description: "AI chatbot, personalized recommendations",
+    description: "Synthetic data for everyone",
     price: "0",
     features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "100K+ highest-quality synthetic records",
+      "2M+ Transform records",
+      "2M+ PII detection records",
     ],
   },
   {
     id: "1",
-    title: "Premium",
-    description: "Advanced AI chatbot, priority support, analytics dashboard",
-    price: "9.99",
+    title: "Team",
+    description: "Build synthetic data and privacy engineering into your development process.",
+    price: "295/mo",
     features: [
-      "An advanced AI chatbot that can understand complex queries",
-      "An analytics dashboard to track your conversations",
-      "Priority support to solve issues quickly",
+      "10 concurrent jobs",
+      "99.5% API availability SLA",
+      "1 business day email support",
     ],
   },
   {
     id: "2",
     title: "Enterprise",
-    description: "Custom AI chatbot, advanced analytics, dedicated account",
+    description: "Standardize synthetic data and privacy engineering across your enterprise.",
     price: null,
     features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "Custom enterprise turbo-scaling",
+      "99.5% API availability SLA",
+      "24/7 phone and email support",
     ],
   },
 ];
@@ -244,16 +245,16 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Data democratization",
+    text: "Enable everyone in your organization to get access to data, fostering a culture of data-driven decision-making.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "1",
-    title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title: "Representative test data generation",
+    text: "Create representative synthetic test data for better and safer software development, ensuring comprehensive test coverage.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -261,16 +262,16 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Connect everywhere",
-    text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+    title: "External data sharing",
+    text: "Share synthetic data with external partners such as vendors and start-ups, fostering collaboration and innovation.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
   },
   {
     id: "3",
-    title: "Fast responding",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "AI/ML development",
+    text: "Get the right data for your models - find out how synthetic data can help improve model accuracy and performance.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -287,7 +288,7 @@ export const benefits = [
   {
     id: "5",
     title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    text: "This algorithm understand user queries and provide accurate and relevant responses.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,

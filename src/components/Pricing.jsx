@@ -28,8 +28,8 @@ const Pricing = () => {
         </div>
 
         <Heading
-          tag="Get started with Brainwave"
-          title="Pay once, use forever"
+          tag="Get started with Synthium AI"
+          title="Simple pricing that scales with You!"
         />
 
         <div className="relative">

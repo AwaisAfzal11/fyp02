@@ -1,0 +1,4 @@
+ctrl + k,w => close all opened tabs
+ctrl + w   => close current opened tab.
+ctrl + j  => terminal
+ctrl + spc_bar => hint

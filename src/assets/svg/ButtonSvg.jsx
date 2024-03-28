@@ -1,3 +1,4 @@
+// on navbar Sign in button styling
 const ButtonSvg = (white) => (
   <>
     <svg
